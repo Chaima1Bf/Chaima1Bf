@@ -1,35 +1,23 @@
-<!-- Banner -->
-<h1 align="center">✨ Chaima Ben Farhat ✨</h1>
-<h3 align="center">Data Scientist | Visioneer | AI Explorer | UI Whisperer</h3>
+<!-- HEADER: Typing Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=F97316&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Chaima+Ben+Farhat+%F0%9F%91%8B;AI+Explorer+%7C+Data+Artist+%7C+Creative+Engineer;Transforming+Data+into+Design+%26+Decisions" alt="Typing SVG" />
+</div>
+
+<br/>
+
 <p align="center">
-  <em>"Turning Data into Decisions, and Curiosity into Code."</em>
+  <img src="https://img.shields.io/badge/Data%20Scientist-%2300ADB5.svg?style=for-the-badge&logo=data&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain%20Lover-%234B0082.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP%20%26%20Vision%20Fusion-%23FFC107.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV%20Engineer-%23FF6F61.svg?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🧬 About Me
+### 🌟 Who I Am
 
-Hi! I’m **Chaima**, a Data Science Engineering student blending science, art, and empathy into every project.  
-From predicting lung cancer with deep learning to graphing knowledge with LLMs, I thrive at the intersection of data, design, and discovery.
-
-🧠 Currently exploring:  
-- LLaMA, LangChain & RAG pipelines  
-- Image Quality Enhancement with OpenCV  
-- NLP models in real-world strategy  
-
-🛠️ Tech isn't just tools for me — it's storytelling with logic and empathy.  
-🎓 Studying in Germany 🇩🇪 | Originally from Tunisia 🇹🇳
-
----
-
-### 🛠 Tech Stack
-
-```python
-💻 Languages: Python, SQL, JavaScript
-🌐 Frameworks: Laravel, Django, React
-🧠 AI/ML: Scikit-learn, PyTorch, HuggingFace, LLaMA
-🧮 Data: Pandas, NumPy, MongoDB, Neo4j, Matplotlib
-🎨 Design: Figma, Adobe XD
-
-![Chaima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaima1Bf&show_icons=true&theme=tokyonight)
-![Visitor Count](https://komarev.com/ghpvc/?username=Chaima1Bf&style=flat-square)
+```yaml
+name: Chaima Ben Farhat
+title: Creative AI Engineer | Data Scientist
+based_in: Germany 🇩🇪 (with Tunisian Roots 🇹🇳)
+motto: "Code with empathy, create with vision."
