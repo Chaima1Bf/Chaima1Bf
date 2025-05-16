@@ -30,3 +30,6 @@ From predicting lung cancer with deep learning to graphing knowledge with LLMs, 
 🧠 AI/ML: Scikit-learn, PyTorch, HuggingFace, LLaMA
 🧮 Data: Pandas, NumPy, MongoDB, Neo4j, Matplotlib
 🎨 Design: Figma, Adobe XD
+
+![Chaima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaima1Bf&show_icons=true&theme=tokyonight)
+![Visitor Count](https://komarev.com/ghpvc/?username=Chaima1Bf&style=flat-square)
