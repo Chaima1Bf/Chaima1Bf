@@ -14,78 +14,93 @@
 
 ---
 
-### 🌟 Who I Am
+## 🌟 Who I Am
 
-```yaml
-name: Chaima Ben Farhat
-title: Creative AI Engineer | Data Scientist
-based_in: Germany 🇩🇪 (with Tunisian Roots 🇹🇳)
-motto: "Code with empathy, create with vision."
-I’m not just an engineer —
-I’m a storyteller, a builder, a visioneer.
+👋 I’m **Chaima Ben Farhat**, a creative AI engineer and data scientist currently based in **Germany 🇩🇪**, originally from **Tunisia 🇹🇳**.
 
-From designing AI for medical breakthroughs 🫁, to building knowledge graphs that think 🔍,
-my work blends machine intelligence with human insight.
+💡 I’m passionate about:
+- 🔬 AI-powered knowledge extraction (LangChain, RAG, NLP)
+- 📸 Computer vision pipelines (OpenCV, image quality enhancement)
+- 🧠 LLMs & Transformers (LLaMA, HuggingFace)
+- 🎨 UI/UX design (Figma, intuitive AI interfaces)
 
-I specialize in:
+🧠 I blend **machine intelligence** with **human creativity** to build tech that *thinks, feels, and solves*.
 
-🔬 AI-powered knowledge extraction (RAG, LangChain, NLP)
+---
 
-📸 Vision-based model pipelines (OpenCV, image quality)
+## 🚀 Projects That Define My Journey
 
-🧠 LLMs & Transformers (LLaMA, HuggingFace)
+| 🧠 Project | 🔧 Tech Stack | 📌 Description |
+|-----------|----------------|----------------|
+| **Lung Cancer Detection** | PyTorch, CT Scans | Early diagnosis through medical imaging |
+| **PMBOK Knowledge Graph** | LangChain, Neo4j, NLP | AI-based recommender system from unstructured text |
+| **Adaptive Mask RCNN** | Remote Sensing, CV | Object detection in satellite imagery |
+| **Intrusion Detection System** | ML, NSL KDD | Network anomaly detection using classification |
+| **Tropospheric Ozone Impact** | Pandas, DataViz | Environmental data exploration & analysis |
 
-🎨 UI/UX creativity (Figma, intuitive interfaces)
+---
 
-🚀 Projects That Define My Journey
-🧠 Project	🔧 Tech Stack	📌 Description
-Lung Cancer Detection	PyTorch, CT Scans	Medical imaging model for early-stage diagnosis
-Knowledge Graph from PMBOK	LangChain, Neo4j, NLP	Built a semantic recommendation system from unstructured documents
-Adaptive Mask RCNN	CV, Remote Sensing	Reproduced paper to detect targets in satellite imagery
-Intrusion Detection	ML, NSL KDD	Cybersecurity model to detect network anomalies
-Tropospheric Ozone Impact	Pandas, EDA	Scientific environmental analysis of ozone data
+## 🧰 Toolbox
 
-🧠 Toolbox
-Category	Technologies
-Languages	Python, SQL, JavaScript
-Frameworks	Laravel, Django, React
-AI/ML	PyTorch, Scikit-learn, Transformers, LLaMA
-Data	MongoDB, Neo4j, Pandas, LangChain
-Visualization	Matplotlib, Seaborn, Figma
-DevOps	Git, GitHub, REST APIs
+| Category       | Technologies |
+|----------------|--------------|
+| **Languages**  | Python, SQL, JavaScript |
+| **Frameworks** | Laravel, Django, React |
+| **AI/ML**      | PyTorch, Scikit-learn, HuggingFace, LLaMA |
+| **Data**       | MongoDB, Neo4j, Pandas, LangChain |
+| **Visualization** | Matplotlib, Seaborn, Figma |
+| **DevOps**     | Git, GitHub, REST APIs |
 
-🏅 Awards & Certifications
-🧠 NVIDIA – Transformer-Based NLP (2024)
+---
 
-📘 Coursera – NLP Specialization
+## 🏅 Certifications & Awards
 
-🎓 Big Data Engineer – Mastery Award
+- 🧠 **NVIDIA** – Transformer-Based NLP (2024)  
+- 📘 **Coursera** – NLP Specialization (Classification, Attention, Probabilistic Models)  
+- 🎓 **Big Data Engineer** – Mastery Award  
+- 🌍 **PEEC Student Label** – 2022, 2023  
 
-🌍 PEEC Student Label – 2022, 2023
+---
 
-🌱 My Community Impact
-🎓 Community Manager @ Google Developer Student Clubs
+## 🌱 Community Engagement
 
-🎨 Artist @ Art Revolution IHEC
+- 👩‍💻 Community Manager @ **Google Developer Student Clubs**  
+- 🎨 Artist @ **Art Revolution IHEC**  
+- 📣 Sponsorship Lead @ **Chill & Play Club**  
+- 🧠 Member @ **IEEE**, **Enactus**, **Leo Club Boumhal**  
 
-📣 Sponsorship Lead @ Chill & Play Club
+---
 
-🌍 Member @ IEEE, Enactus, Leo Club Boumhal
+## 🎭 Outside the Code
 
-🎨 Outside the Code
-txt
-Copier
-Modifier
-🎸 Musician       - Guitar & Piano
-🎾 Tennis Player  - Mind & Motion
-🎮 Gamer          - From RPGs to AI bots
-📚 Reader         - From philosophy to physics
-🖌️ Artist         - Blending design with data
-Languages:
-Arabic 🇹🇳 (Native) • French 🇫🇷 (Proficient) • English 🇬🇧 (Proficient) • German 🇩🇪 (Basic)
+I’m also:
+- 🎸 A musician (Guitar & Piano)  
+- 🎾 A tennis player  
+- 🎮 A gamer (from RPGs to AI bots)  
+- 📚 A reader (from philosophy to physics)  
+- 🖌️ A visual storyteller (with Figma + code)
 
-🤝 Let's Connect
-<p align="center"> <a href="mailto:chaimabf1@hotmail.com"><img src="https://img.shields.io/badge/Email-chaimabf1@hotmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/chaima-ben-farhat-00b533197"><img src="https://img.shields.io/badge/LinkedIn-chaima--ben--farhat-blue?style=flat-square&logo=linkedin&logoColor=white" /></a> </p>
-📊 My GitHub at a Glance
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Chaima1Bf&show_icons=true&theme=gradient" width="47%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaima1Bf&layout=compact&theme=gradient" width="47%"/> </p>
-<p align="center"><i>"Build like a scientist. Think like a designer. Deliver like an artist."</i></p> ```
+**Languages I speak:**  
+Arabic 🇹🇳 (Native) • French 🇫🇷 • English 🇬🇧 • German 🇩🇪 (Basic)
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="mailto:chaimabf1@hotmail.com"><img src="https://img.shields.io/badge/Email-chaimabf1@hotmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/chaima-ben-farhat-00b533197"><img src="https://img.shields.io/badge/LinkedIn-chaima--ben--farhat-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 My GitHub at a Glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaima1Bf&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaima1Bf&layout=compact&theme=tokyonight" width="47%"/>
+</p>
+
+---
+
+<p align="center"><i>"Build like a scientist. Think like a designer. Deliver like an artist."</i></p>
