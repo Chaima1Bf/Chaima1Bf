@@ -1,4 +1,34 @@
 <!-- HEADER: Typing Banner -->
+<!-- Animated Hero Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F97316&vCenter=true&multiline=true&center=true&width=800&height=100&lines=Hi%2C+I'm+Chaima+Ben+Farhat+%F0%9F%91%8B;AI+Explorer+%7C+Data+Artist+%7C+Creative+Engineer;Transforming+Data+into+Design+%26+Decisions" alt="Typing banner" />
+</p>
+
+<!-- Floating Badge Section with animation -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Data%20Scientist-00ADB5?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LangChain%20Lover-4B0082?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NLP%20%2B%20Vision%20Fusion-FFC107?style=for-the-badge&logo=openai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-OpenCV%20Engineer-FF6F61?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+<!-- Subtle pulse effect using CSS inside GitHub Markdown -->
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); opacity: 0.9; }
+  50% { transform: scale(1.03); opacity: 1; }
+  100% { transform: scale(1); opacity: 0.9; }
+}
+.pulse-badge img {
+  animation: pulse 3s infinite;
+}
+</style>
+
+<!-- Optional pulse-enhanced badge block (if GitHub renders it) -->
+<p align="center" class="pulse-badge">
+  <img src="https://img.shields.io/badge/-Creative%20Thinker-EA4C89?style=for-the-badge&logo=spark&logoColor=white"/>
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=F97316&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Chaima+Ben+Farhat+%F0%9F%91%8B;AI+Explorer+%7C+Data+Artist+%7C+Creative+Engineer;Transforming+Data+into+Design+%26+Decisions" alt="Typing SVG" />
 </div>
