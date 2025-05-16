@@ -88,3 +88,4 @@ Arabic 🇹🇳 (Native) • French 🇫🇷 (Proficient) • English 🇬🇧 (
 <p align="center"> <a href="mailto:chaimabf1@hotmail.com"><img src="https://img.shields.io/badge/Email-chaimabf1@hotmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/chaima-ben-farhat-00b533197"><img src="https://img.shields.io/badge/LinkedIn-chaima--ben--farhat-blue?style=flat-square&logo=linkedin&logoColor=white" /></a> </p>
 📊 My GitHub at a Glance
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Chaima1Bf&show_icons=true&theme=gradient" width="47%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaima1Bf&layout=compact&theme=gradient" width="47%"/> </p>
+<p align="center"><i>"Build like a scientist. Think like a designer. Deliver like an artist."</i></p> ```
