@@ -1,16 +1,32 @@
-## Hi there 👋
+<!-- Banner -->
+<h1 align="center">✨ Chaima Ben Farhat ✨</h1>
+<h3 align="center">Data Scientist | Visioneer | AI Explorer | UI Whisperer</h3>
+<p align="center">
+  <em>"Turning Data into Decisions, and Curiosity into Code."</em>
+</p>
 
-<!--
-**Chaima1Bf/Chaima1Bf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧬 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! I’m **Chaima**, a Data Science Engineering student blending science, art, and empathy into every project.  
+From predicting lung cancer with deep learning to graphing knowledge with LLMs, I thrive at the intersection of data, design, and discovery.
+
+🧠 Currently exploring:  
+- LLaMA, LangChain & RAG pipelines  
+- Image Quality Enhancement with OpenCV  
+- NLP models in real-world strategy  
+
+🛠️ Tech isn't just tools for me — it's storytelling with logic and empathy.  
+🎓 Studying in Germany 🇩🇪 | Originally from Tunisia 🇹🇳
+
+---
+
+### 🛠 Tech Stack
+
+```python
+💻 Languages: Python, SQL, JavaScript
+🌐 Frameworks: Laravel, Django, React
+🧠 AI/ML: Scikit-learn, PyTorch, HuggingFace, LLaMA
+🧮 Data: Pandas, NumPy, MongoDB, Neo4j, Matplotlib
+🎨 Design: Figma, Adobe XD
